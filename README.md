@@ -1,4 +1,4 @@
-# React with Fazt
+# React with Fazt and Fazt Code
 
 https://youtu.be/lVqHiTCIRQg?si=y_9jZ1e7E6WnUVQe
 
